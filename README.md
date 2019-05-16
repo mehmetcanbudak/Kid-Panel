@@ -1,2 +1,2 @@
 # Kid-Panel
-A panel for Kid VCO
+A panel for Kid VCO (https://github.com/fancyyyyy/kid)
